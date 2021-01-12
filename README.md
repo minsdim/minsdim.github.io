@@ -1,0 +1,2 @@
+minsdim.github.io
+MINS
